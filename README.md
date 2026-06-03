@@ -67,8 +67,8 @@ This work uses publicly available browse/preview images rather than the original
 
 The trained checkpoints, processed test datasets, and the VQGAN-f4 file are not stored directly in this GitHub repository due to file-size limitations. They are provided through the following external download link:
 
-* Baidu Netdisk: [Baidu Netdisk link]
-* Extraction code: [extraction code]
+* Baidu Netdisk: SP-BBDM: https://pan.baidu.com/s/51GOqBO6_LoOVb8atCuN3MA
+
 
 The external archive contains:
 
