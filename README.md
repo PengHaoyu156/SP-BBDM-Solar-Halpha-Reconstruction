@@ -2,7 +2,7 @@
 
 This repository provides the code and supporting materials for the PASP manuscript:
 
-**[paper title]**
+
 
 This work studies single-frame cross-band reconstruction from SDO/AIA 304 Å browse images to CHASE/HIS Hα preview images. The proposed method, SP-BBDM, is a two-stage structure-preserving Brownian Bridge diffusion framework. The first stage, denoted as SP-BBDM-grad, introduces a latent gradient consistency loss into a latent BBDM-f4 model. The second stage, denoted as SP-BBDM-REF, applies an ROI-guided residual refinement module to further improve local activity-related structures.
 
